@@ -79,10 +79,23 @@ The remaining 9 segments (greetings, small talk, unrelated remarks) were correct
 ## Project Structure
 
 ConvAI-Project/
+
+
 ├── app.py # Streamlit web application
+
+
 ├── phase1_transcribe.py # Whisper transcription (standalone test script)
+
+
 ├── phase2_filter.py # Agenda-based filtering (standalone test script)
+
+
 ├── phase3_categorize.py # Hybrid categorization (standalone test script)
+
+
 ├── Audio/ # Test audio files (not tracked in git)
+
+
 ├── .gitignore
+
 └── README.md
