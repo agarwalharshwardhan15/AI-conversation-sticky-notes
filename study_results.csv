@@ -1,0 +1,9 @@
+category,filename,model_size,processing_time_sec,avg_confidence,word_count,transcript_preview
+native,n1.mp3,tiny,9.5,-0.3,205," Given the Al Shabbab attacks on the Westgate Mal and the University of the United States, I'm sure your secret service could have suggested other cou"
+native,n1.mp3,base,18.13,-0.248,201," Given the Al Shababa tax on the Westgate Mall and the RISC University, I'm sure your secret service could have suggested other countries for you to v"
+native,n2.mp3,tiny,7.14,-0.271,144, Ordinary people worldwide are beginning to realise that greed does not actually lead to joy. What is your cautiously optimistic view of what the futu
+native,n2.mp3,base,13.48,-0.284,142, Ordinary people worldwide are beginning to realize that greed does not actually lead to joy. What is your cautiously optimistic view of what the futu
+non_native,nn1.mp3,tiny,8.73,-0.439,180, AI has moved into a new era from chapats to something out of the movie her good morning theater Morning you have a meeting in five minutes. You want 
+non_native,nn1.mp3,base,17.06,-0.282,179," AI has moved into a new era from Chapats to something out of the movie her. Good morning, Theodore. Good morning. You have a meeting in five minutes."
+non_native,nn2.mp3,tiny,10.2,-0.452,202," When you've all know a Harari published his first book Sapiens in 2014 about the history of the human species, it became a global bestseller. In turn"
+non_native,nn2.mp3,base,18.24,-0.243,197," When you've all known a Harari published his first book, Sapiens, in 2014, about the history of the human species, it became a global bestseller, and"
