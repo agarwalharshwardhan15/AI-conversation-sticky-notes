@@ -1,9 +1,41 @@
-category,filename,model_size,processing_time_sec,avg_confidence,word_count,transcript_preview
-native,n1.mp3,tiny,9.5,-0.3,205," Given the Al Shabbab attacks on the Westgate Mal and the University of the United States, I'm sure your secret service could have suggested other cou"
-native,n1.mp3,base,18.13,-0.248,201," Given the Al Shababa tax on the Westgate Mall and the RISC University, I'm sure your secret service could have suggested other countries for you to v"
-native,n2.mp3,tiny,7.14,-0.271,144, Ordinary people worldwide are beginning to realise that greed does not actually lead to joy. What is your cautiously optimistic view of what the futu
-native,n2.mp3,base,13.48,-0.284,142, Ordinary people worldwide are beginning to realize that greed does not actually lead to joy. What is your cautiously optimistic view of what the futu
-non_native,nn1.mp3,tiny,8.73,-0.439,180, AI has moved into a new era from chapats to something out of the movie her good morning theater Morning you have a meeting in five minutes. You want 
-non_native,nn1.mp3,base,17.06,-0.282,179," AI has moved into a new era from Chapats to something out of the movie her. Good morning, Theodore. Good morning. You have a meeting in five minutes."
-non_native,nn2.mp3,tiny,10.2,-0.452,202," When you've all know a Harari published his first book Sapiens in 2014 about the history of the human species, it became a global bestseller. In turn"
-non_native,nn2.mp3,base,18.24,-0.243,197," When you've all known a Harari published his first book, Sapiens, in 2014, about the history of the human species, it became a global bestseller, and"
+category,filename,model_size,processing_time_sec,avg_confidence,word_count
+native,native_1.mp3,tiny,2.48,0.948,127
+native,native_1.mp3,base,8.45,0.979,145
+non_native,non_native_1.mp3,tiny,2.17,0.567,129
+non_native,non_native_1.mp3,base,7.13,0.851,126
+native,native_2.mp3,tiny,2.29,0.941,121
+native,native_2.mp3,base,6.8,0.975,122
+non_native,non_native_2.mp3,tiny,2.0,0.644,126
+non_native,non_native_2.mp3,base,6.73,0.905,122
+native,native_3.mp3,tiny,2.33,0.913,132
+native,native_3.mp3,base,8.02,0.978,126
+non_native,non_native_3.mp3,tiny,1.66,0.558,150
+non_native,non_native_3.mp3,base,7.77,0.886,123
+native,native_4.mp3,tiny,1.69,0.938,132
+native,native_4.mp3,base,7.16,0.971,125
+non_native,non_native_4.mp3,tiny,2.11,0.64,138
+non_native,non_native_4.mp3,base,7.94,0.901,134
+native,native_5.mp3,tiny,2.14,0.932,144
+native,native_5.mp3,base,8.29,0.973,120
+non_native,non_native_5.mp3,tiny,1.69,0.596,125
+non_native,non_native_5.mp3,base,7.55,0.92,122
+native,native_6.mp3,tiny,2.35,0.95,133
+native,native_6.mp3,base,7.78,0.974,122
+non_native,non_native_6.mp3,tiny,1.99,0.594,147
+non_native,non_native_6.mp3,base,6.59,0.904,144
+native,native_7.mp3,tiny,1.57,0.937,134
+native,native_7.mp3,base,7.18,0.989,121
+non_native,non_native_7.mp3,tiny,2.08,0.605,150
+non_native,non_native_7.mp3,base,7.14,0.893,141
+native,native_8.mp3,tiny,1.74,0.908,145
+native,native_8.mp3,base,6.94,0.986,129
+non_native,non_native_8.mp3,tiny,2.04,0.611,120
+non_native,non_native_8.mp3,base,7.37,0.861,128
+native,native_9.mp3,tiny,1.71,0.91,134
+native,native_9.mp3,base,7.03,0.965,134
+non_native,non_native_9.mp3,tiny,1.66,0.644,135
+non_native,non_native_9.mp3,base,7.33,0.886,123
+native,native_10.mp3,tiny,1.75,0.928,138
+native,native_10.mp3,base,7.77,0.968,140
+non_native,non_native_10.mp3,tiny,1.85,0.565,150
+non_native,non_native_10.mp3,base,6.56,0.913,124
