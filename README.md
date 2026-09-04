@@ -77,4 +77,3 @@ Evaluated manually against a ground-truth dataset of 100 meeting segments:
 *   **ROUGE-1 Precision:** 100%
 
 ---
-*Developed as part of an academic NLP implementation study.*
